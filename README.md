@@ -2,4 +2,4 @@
 - Tanjila
 - Sumaiyaa
 - Parveg
-- Tuanaka
+- Tanaka
