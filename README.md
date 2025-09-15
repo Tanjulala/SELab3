@@ -1,6 +1,6 @@
 # Project Members
 
 * Tanjila
-* Sumaiyaa
+* Sumaiya
 * Parvej
 * Tuanaka
