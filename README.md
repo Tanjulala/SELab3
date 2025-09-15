@@ -1,5 +1,5 @@
 # Project Members
-- Tanjilo
+- Tanjila
 - Sumaiyaa
 - Parveg
 - Tuanaka
